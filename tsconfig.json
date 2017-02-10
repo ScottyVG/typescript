@@ -3,13 +3,14 @@
         "module": "commonjs",
         "target": "es5",
         "noImplicitAny": false,
-        "sourceMap": true
+        "sourceMap": false
         // "noUnusedParameters": true
         // "noEmitOnError": true
         // "strictNullChecks": true
     },
     "exclude": [
         "node_modules",
-        "section-2"
+        "section-2",
+        "section-3"
     ]
 }
