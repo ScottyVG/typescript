@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "module": "commonjs",
+        "module": "amd",
         "target": "es5",
         "noImplicitAny": false,
         "sourceMap": false
@@ -12,6 +12,7 @@
         "node_modules",
         "section-2",
         "section-3",
-        "section-4"
+        "section-4",
+        "section-5"
     ]
 }
